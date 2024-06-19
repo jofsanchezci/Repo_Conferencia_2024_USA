@@ -76,7 +76,7 @@ Este cuaderno de Jupyter contiene una implementación básica de un modelo Trans
 
 ## Contacto
 
-Para más información o preguntas, por favor contacta a [tu correo electrónico].
+Para más información o preguntas, por favor contacta a [js012108@gmail.com].
 
 ---
 
